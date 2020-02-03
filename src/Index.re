@@ -49,3 +49,8 @@ ReactDOMRe.render(
   <ReasonUsingJSUsingReason />,
   makeContainer("Reason Using JS Using Reason"),
 );
+
+ReactDOMRe.render(
+  <Test />,
+  makeContainer("my own stuff"),
+);
